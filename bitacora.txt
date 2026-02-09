@@ -1,0 +1,15 @@
+Punto 4 – Uso de neofetch
+
+Se instaló el programa neofetch usando el comando sudo apt install neofetch.
+La instalación se realizó correctamente sin errores.
+
+Al ejecutar el comando neofetch, el sistema muestra información general del equipo, como:
+
+- Sistema operativo: (ej. Linux Mint 21)
+- Kernel: (ej. 5.15.0-xx-generic)
+- Tiempo encendido (uptime): indica cuánto tiempo ha estado encendido el sistema.
+- Shell: el intérprete de comandos utilizado, por ejemplo bash.
+- CPU: procesador del equipo.
+- Memoria RAM: cantidad de memoria usada y total del sistema.
+
+Esta información permite conocer las características principales del sistema y verificar su estado
